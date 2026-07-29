@@ -20,7 +20,7 @@ My background combines hands-on AI automation work with eight years in regulated
 - [**StoriMotion**](https://github.com/BoyeOlufemi/storimotion-site) — Vercel-hosted landing page with serverless email validation, Resend audience capture, confirmation email, and analytics integration
 - [**KineticZoneYard**](https://github.com/BoyeOlufemi/kinetic-zone-yard) — prototype architecture for environment-aware calisthenics planning, including onboarding configuration, workflow payloads, and a Supabase schema
 - [**InterviewBuddy 360**](https://github.com/BoyeOlufemi/InterviewBuddy-360) — TypeScript interview-practice application for customized role-play and feedback, with Firebase integration and documented security work
-- [**Kemet Farms OS**](https://github.com/BoyeOlufemi/kemet-farms-os) — prototype WhatsApp-driven field-operations system for palm and soybean crop management, with Supabase and Twilio verification gates *(private repository)*
+- [**Kemet Farms OS**](https://github.com/BoyeOlufemi/kemet-farms-os) — prototype WhatsApp-driven field-operations system for palm and soybean crop management, with Supabase and Twilio verification gates
 
 ### How I build
 
