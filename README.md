@@ -20,7 +20,7 @@ My background combines hands-on AI automation work with eight years in regulated
 - [**PrepFlow OS AI Audit**](https://github.com/BoyeOlufemi/PrepFlow_OS-AI-Audit) — AI-powered visibility analysis with search grounding and actionable recommendations
 - [**Hetzner + Hermes Deploy**](https://github.com/BoyeOlufemi/hetzner-hermes-deploy) — hardened server provisioning for a continuously available AI-agent worker
 - [**CRAbuddy ContentEngine Pro**](https://github.com/BoyeOlufemi/CRAbuddy-ContentEngine-Pro) — AI-assisted content workflow for clinical-research professionals
-- [**Personal Portfolio**](https://github.com/BoyeOlufemi/personal_portfolio) — additional product and automation work
+- [**KaziCRA Assistant**](https://github.com/BoyeOlufemi/kazicra-assistant) — clinical-operations workflow prototype with bounded AI assistance and explicit human-review boundaries
 
 ### How I build
 
