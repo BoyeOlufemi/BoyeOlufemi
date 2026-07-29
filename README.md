@@ -17,10 +17,10 @@ My background combines hands-on AI automation work with eight years in regulated
 ### Selected work
 
 - [**ExoCore Systems**](https://github.com/BoyeOlufemi/exocore-systems) — operational architecture and intelligent workflow systems for service businesses
-- [**PrepFlow OS AI Audit**](https://github.com/BoyeOlufemi/PrepFlow_OS-AI-Audit) — AI-powered visibility analysis with search grounding and actionable recommendations
-- [**Hetzner + Hermes Deploy**](https://github.com/BoyeOlufemi/hetzner-hermes-deploy) — hardened server provisioning for a continuously available AI-agent worker
-- [**CRAbuddy ContentEngine Pro**](https://github.com/BoyeOlufemi/CRAbuddy-ContentEngine-Pro) — AI-assisted content workflow for clinical-research professionals
-- [**KaziCRA Assistant**](https://github.com/BoyeOlufemi/kazicra-assistant) — clinical-operations workflow prototype with bounded AI assistance and explicit human-review boundaries
+- [**storimotion-site**](https://github.com/BoyeOlufemi/storimotion-site)
+- [**kinetic-zone-yard**](https://github.com/BoyeOlufemi/kinetic-zone-yard)
+- [**InterviewBuddy-360**](https://github.com/BoyeOlufemi/InterviewBuddy-360)
+- [**kemet-farms-os**](https://github.com/BoyeOlufemi/kemet-farms-os)
 
 ### How I build
 
