@@ -4,7 +4,9 @@
 
 I build reliable AI-enabled workflows, API integrations, and operational systems that turn manual business processes into documented, testable automation.
 
-My background combines hands-on AI automation work with eight years in regulated healthcare operations and an MBA focused on supply chain. That mix shapes how I approach automation: understand the process first, design for human accountability, and build systems that can move from prototype to maintainable software.
+My background combines hands-on AI automation work with eight years monitoring regulated clinical trials and an MBA focused on supply chain. That mix shapes how I approach automation: understand the process first, design for human accountability, and build systems that can move from prototype to maintainable software.
+
+**Case studies and evidence: [olaboyejoolufemi.com](https://olaboyejoolufemi.com)**
 
 ### What I work with
 
@@ -24,11 +26,17 @@ My background combines hands-on AI automation work with eight years in regulated
 
 ### How I build
 
-1. Map the business process and define the operational outcome.
-2. Translate requirements into explicit workflows, schemas, integrations, and approval points.
-3. Test failure modes, add monitoring and human review, and document the handoff.
-4. Evolve proven workflows into reusable, version-controlled software.
+I work to a six-stage method — **Understand Before You Automate**:
+
+1. **Observe** — see how the work actually happens.
+2. **Measure** — quantify the waste and set a baseline.
+3. **Redesign** — simplify the process before adding software.
+4. **Validate** — prove the value and protect human judgement.
+5. **Build** — encode the approved logic reliably, with explicit workflows, schemas, integrations, and approval points.
+6. **Improve** — monitor the evidence, test failure modes, and iterate.
+
+The method decides what to build. The architecture — **the Functional Nucleus** (Engine, Shield, Catalyst) — defines how it is built.
 
 I am interested in AI Automation Engineer, Automation Consultant, Solutions Engineer, and Business Systems Analyst opportunities—especially where AI, operations, and responsible automation intersect.
 
-[ExoCore Systems](https://exocoresystems.com) · [GitHub projects](https://github.com/BoyeOlufemi?tab=repositories)
+[olaboyejoolufemi.com](https://olaboyejoolufemi.com) · [ExoCore Systems](https://exocoresystems.com) · [GitHub projects](https://github.com/BoyeOlufemi?tab=repositories)
